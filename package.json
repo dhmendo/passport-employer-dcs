@@ -1,5 +1,6 @@
 {
   "name":"passport-employer-dcs",
+  "version":"0.0.0",
   "author" : {
     "name":"Michael Endo"
   },
