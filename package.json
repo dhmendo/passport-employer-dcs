@@ -1,0 +1,15 @@
+{
+  "name":"passport-employer-dcs",
+  "author" : {
+    "name":"Michael Endo"
+  },
+  "repository" : {
+    "type":"git",
+    "url":"git://github.com/dhmendo/passport-employer-dcs.git"
+  },
+  "dependencies" : {
+    "passport-strategy":"1.x.x"
+  }
+   
+
+}
